@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CC1</string>
+    <string name="reset">Reset</string>
+    <string name="steal">Steal</string>
+    <string name="score">Score</string>
+    <string name="score_default">%d</string>
+    <string name="language_english" translatable="false">English</string>
+    <string name="language_greek" translatable="false">Ελληνικά</string>
+    <string name="language_japanese" translatable="false">日本語</string>
+    <string name="language_code_english" translatable="false">en</string>
+    <string name="language_code_greek" translatable="false">el</string>
+    <string name="language_code_japanese" translatable="false">ja</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CC1</string>
+    <string name="reset">Επανεκκίνηση</string>
+    <string name="steal">Κλοπή</string>
+    <string name="score">Προσθήκη</string>
+    <string name="score_default">%d</string>
+
+</resources>

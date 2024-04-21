@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CC1</string>
+    <string name="reset">リセット</string>
+    <string name="steal">盗む</string>
+    <string name="score">得点</string>
+    <string name="score_default">%d</string>
+
+</resources>
